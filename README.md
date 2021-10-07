@@ -1,6 +1,6 @@
 Objetivo
 
-Desarrollar un reporte interactivo que nos permita analizar las ventas de millones de copias de videojuegos a nivel global
+Desarrollar un reporte interactivo que nos permita analizar las ventas de millones de copias de videojuegos a nivel global 
 
 Se analizara mediante las siguientes categorías:
 
