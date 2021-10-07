@@ -6,11 +6,11 @@
 
     Se analizara mediante las siguientes categorias:
     
-    Año
-    Región
-    Plataforma
-    Genero
-    Editorial
+    -Año
+    -Región
+    -Plataforma
+    -Genero
+    -Editorial
 
-    Se proporciona 1 archivo "VentasDeVideojuegos.xlsx" que fue utilizado para el desarrollo completo del reporte.</p>
+    Se proporciona 1 archivo "VentasDeVideojuegos.xlsx" que fue utilizado para el desarrollo completo del reporte.
 
