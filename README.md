@@ -4,7 +4,7 @@ Desarrollar un reporte interactivo que nos permita analizar las ventas de millon
 
 Se analizara mediante las siguientes categorías:
 
--Año
+ Año
 -Región
 -Plataforma
 -Genero
