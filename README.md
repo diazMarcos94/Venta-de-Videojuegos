@@ -1,2 +1,16 @@
-# Venta-de-Videojuegos
-&lt;!DOCTYPE html> &lt;html lang="en"> &lt;head>     &lt;meta charset="UTF-8">     &lt;meta http-equiv="X-UA-Compatible" content="IE=edge">     &lt;meta name="viewport" content="width=device-width, initial-scale=1.0">     &lt;link rel="stylesheet" type="text/css" href="styles.css">     &lt;title>Venta de Videojuegos&lt;/title> &lt;/head> &lt;body>     &lt;p>      &lt;h2>Objetivo&lt;/h2>      &lt;p>Desarrollar un reporte interactivo que nos permita analizar las ventas de millones de copias de videojuegos a nivel global&lt;/p>&lt;/br>      &lt;p>Se analizara mediante las siguientes categorias:&lt;/p>     &lt;ul>         &lt;li>Año&lt;/li>         &lt;li>Región&lt;/li>         &lt;li>Plataforma&lt;/li>         &lt;li>Genero&lt;/li>         &lt;li>Editorial&lt;/li>      &lt;/ul>     &lt;/br>      &lt;p>Se proporciona 1 archivo "VentasDeVideojuegos.xlsx" que fue utilizado para el desarrollo completo del reporte.&lt;/p> &lt;/body> &lt;/html>
+
+    
+    Objetivo
+
+    Desarrollar un reporte interactivo que nos permita analizar las ventas de millones de copias de videojuegos a nivel global
+
+    Se analizara mediante las siguientes categorias:
+    
+    Año
+    Región
+    Plataforma
+    Genero
+    Editorial
+
+    Se proporciona 1 archivo "VentasDeVideojuegos.xlsx" que fue utilizado para el desarrollo completo del reporte.</p>
+
